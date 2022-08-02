@@ -6,7 +6,7 @@ export default function Veggies() {
       <h1>Veggies</h1>
       <p>Oh nice! Some veggie recipes for my belly!</p>
       <Image
-        src="/../public/pizza.jpg"
+        src="/public/pizza.jpg"
         alt="veggie pizza"
         layout="responsive"
         width={2400}
